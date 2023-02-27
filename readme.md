@@ -1,4 +1,4 @@
-<h2> Hi, I´m Leo!</h2>
+<h2> Hi, I'm Leo!</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Web developer, scout leader, navy military and environmental activist.</em></p>
 
