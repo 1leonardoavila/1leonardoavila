@@ -43,7 +43,9 @@ const leo = {
 ![Figma](https://img.shields.io/badge/-Figma-blasck?style=plastic&logo=Figma)
 ![UxUi](https://img.shields.io/badge/-UX/UI-E10098?style=plastic&logo=)
 ![SEO](https://img.shields.io/badge/-SEO-E34F26?style=plastic&logo=)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1leonardoavila&hide=TeX&layout=compact)
