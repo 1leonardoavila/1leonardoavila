@@ -20,7 +20,6 @@ const leo = {
     pronouns: "He" | "Him",
     location: ["Rio de Janeiro - Brazil"],
     hobbies: ["travelling", "spending time with family and friends", "meeting new people and cultures"],
-    },
     useDaling:["HTML5", "CSS3", "JavaScript","Git","VScode"],
     learning:["MySQL", "React", "Java", "NodeJS", "Phyton", "C++", "Bootstrap"],
     currentFocus: "Do the best work of my life", 
