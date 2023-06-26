@@ -4,8 +4,6 @@
 
 
 [![Linkedin: anmol](https://img.shields.io/badge/-LeonardoAvila-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-avila138/-p-singh/)](https://www.linkedin.com/in/leonardo-avila138/)
-![GitHub followers](https://img.shields.io/github/followers/1leonardoavila?label=Follow&style=social)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=1leonardoavila&left_color=green&right_color=red)
 [![Instagram Badge](https://img.shields.io/badge/-lleonardoavila-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/lleonardoavila/)](https://instagram.com/lleonardoavila)
 [![Gmail Badge](https://img.shields.io/badge/-leonardoavila138@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardoavila138@gmail.com)](mailto:leonardoavila138@gmail.com)
 
